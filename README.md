@@ -284,11 +284,8 @@ The Excel dashboard provides an interactive overview of healthcare operations.
 
 ### Dashboard Screenshot
 
-![Excel Healthcare Dashboard](Screenshots/excel-dashboard.png)
+<img width="1404" height="765" alt="image" src="https://github.com/user-attachments/assets/d75d6920-845d-4632-943d-e2e92631be0a" />
 
-> **Replace the image path above with your actual GitHub screenshot path if required.**
-
----
 
 ## 📊 Power BI Dashboard
 
