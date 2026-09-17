@@ -190,6 +190,10 @@ The project includes key healthcare KPIs covering patients, doctors, visits, tre
 | Completed Treatments | 3,325 |
 | Abnormal Lab Tests | 3,354 |
 
+
+
+<img width="911" height="607" alt="image" src="https://github.com/user-attachments/assets/38a3d3b0-42e2-4d8b-aaba-b4b5ef1e85bc" />
+
 ---
 
 # 🗄️ SQL Project
