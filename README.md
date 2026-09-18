@@ -307,9 +307,7 @@ The Power BI dashboard provides interactive healthcare business intelligence.
 
 ### Dashboard Screenshot
 
-![Power BI Healthcare Dashboard](Screenshots/powerbi-dashboard.png)
-
-> **Replace the image path above with your actual GitHub screenshot path if required.**
+<img width="1378" height="839" alt="image" src="https://github.com/user-attachments/assets/4efa5916-f9be-40de-95e1-3e1a7c9d3041" />
 
 ---
 
