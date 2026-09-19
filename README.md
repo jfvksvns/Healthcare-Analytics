@@ -326,9 +326,8 @@ The Tableau dashboard provides interactive healthcare visualization and business
 
 ### Dashboard Screenshot
 
-![Tableau Healthcare Dashboard](Screenshots/tableau-dashboard.png)
+<img width="1410" height="793" alt="image" src="https://github.com/user-attachments/assets/0f92f571-06c3-42e6-a93a-6de2f81f6ddf" />
 
-> **Replace the image path above with your actual GitHub screenshot path if required.**
 
 ---
 
@@ -348,9 +347,7 @@ The SQL analysis focused on:
 - Follow-up analysis
 - Data validation
 
-### MySQL Screenshot
-
-![MySQL Healthcare Analysis](Screenshots/mysql-analysis.png)
+<img width="850" height="515" alt="image" src="https://github.com/user-attachments/assets/19d8d844-643a-45ef-ad21-b25a455e291c" />
 
 ---
 
